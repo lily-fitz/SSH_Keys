@@ -2,11 +2,12 @@
 
 # SSH Keys
 
+<br><br>
 ## Github Docs: Check/ Set up SSH Keys
 
 https://docs.github.com/en/authentication/connecting-to-github-with-ssh/checking-for-existing-ssh-keys
 
-**Check you've selected 'Free Version, Mac/Windows'**
+**Check you've selected 'Free Version, Mac/Windows', and you're using the correct instructions for your operating system**
 
 - Create a Github repo
 - On your local machine, create a folder

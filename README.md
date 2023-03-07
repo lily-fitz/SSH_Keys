@@ -3,8 +3,7 @@
 # SSH Keys
 
 <br>
-##Github Docs: Check/ Set up SSH Keys
-
+**Github Docs: Check/ Set up SSH Keys**
 https://docs.github.com/en/authentication/connecting-to-github-with-ssh/checking-for-existing-ssh-keys
 
 **Check you've selected 'Free Version, Mac/Windows', and you're using the correct instructions for your operating system**

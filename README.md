@@ -23,7 +23,7 @@ https://docs.github.com/en/authentication/connecting-to-github-with-ssh/checking
 ```Javascript
 // GitBash:
 Copy: “Ctrl + Ins”
-Paste: “Shift + Ins” keys
+Paste: “Shift + Ins”
 
 You can copy a file path from desired location to see the path
 cd ~/OneDrive/Desktop

@@ -4,7 +4,7 @@
 
 
 **Github Docs**<br>
-**Check you've selected 'Free Version, Mac/Windows', and you're using the correct instructions for your operating system**
+Check you've selected 'Free Version, Mac/Windows', and you're using the correct instructions for your operating system
 https://docs.github.com/en/authentication/connecting-to-github-with-ssh/checking-for-existing-ssh-keys
 
 **Test Authentication**
